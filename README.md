@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🍒
 
 <!--
 **Pankarinko/Pankarinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Pankarinko and I am a computer science student at KIT. 
+
+My current (and ever expanding) interests are:
+- low-level programming 👩🏽‍💻
+- linux tools ⌨️
+- memory efficiency 🚄
+- open-source game development 👾
+- Rust 🚀
