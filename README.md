@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Pankarinko and I am a computer science master's student at KIT, probably specializing in software development and operating sytem design.
+My name is Pankarinko and I am a computer science master's student at KIT.
+<!--probably specializing in software development and operating sytem design-->
 
 ### My current (and ever expanding) interests are:
 - low-level programming 👩🏽‍💻
