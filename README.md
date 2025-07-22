@@ -31,33 +31,33 @@ My name is Pankarinko and I am a computer science master's student at KIT.
 #### Linux distributions:
 
 <p>
- <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="Fedora" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="50" height="50">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" alt="Fedora" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="60" height="60">
 </p>
 
 
 #### IDEs and tools:
 
 <p>
- <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Godot" width="50" height="50">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" alt="Vim" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Godot" width="60" height="60">
 </p>
 
 #### Programming languages and libraries:
 
 <p>
- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="50" height="50">
- <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png" alt="Rust" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="50" height="50">
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="60" height="60">
+ <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png" alt="Rust" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60">
 </p>
