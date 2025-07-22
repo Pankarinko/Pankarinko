@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Pankarinko and I am a computer science master's student at KIT.
 <!--probably specializing in software development and operating sytem design-->
 
-### My current (and ever expanding) interests are:
+### My current (and ever-expanding) interests are:
 - low-level programming 👩🏽‍💻
 - linux tools ⌨️
 - code optimization 🚄
