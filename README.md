@@ -1,10 +1,9 @@
-## Hi there 🍒
 
+ <h1 align="center">Hi there 🍒</h1>
+<div align="center">
 <!--
 **Pankarinko/Pankarinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,19 +14,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Pankarinko and I am a computer science master's student at KIT.
+#### My name is Pankarinko and I am a computer science master's student at KIT.
+
+
 <!--probably specializing in software development and operating sytem design-->
 
 ### My current (and ever-expanding) interests are:
-- low-level programming 👩🏽‍💻
-- linux tools ⌨️
-- code optimization 🚄
-- data structures 🗂️
-- open-source game development 👾
-- Rust 🚀
+  🔋 low-level programming 👩🏽‍💻
+  
+  🐧 linux tools ⌨️
+  
+  🚄 code optimization ⏩
+  
+  🗄️ data structures 🗂️
+  
+  🎮 open-source game development 👾
+  
+  🦀 Rust 🚀
+
   
 
-
+  
 ### Languages and platforms I have worked with so far:
 
 #### Programming languages and libraries:
@@ -51,6 +58,8 @@ My name is Pankarinko and I am a computer science master's student at KIT.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankarinko&layout=donut&theme=tokyonight&bg_color=60,0F204C64,1B5B8C64,025E6E64&border_color=2192A6)](https://github.com/pankarinko/github-readme-stats)
 
+
+
 #### Linux distributions:
 
 <p>
@@ -69,7 +78,7 @@ My name is Pankarinko and I am a computer science master's student at KIT.
  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="60" height="60">
  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Godot" width="60" height="60">
 </p>
-
+</div>
 
 
 
