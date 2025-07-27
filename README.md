@@ -25,7 +25,7 @@ My name is Pankarinko and I am a computer science master's student at KIT.
 - data structures 🗂️
 - open-source game development 👾
 - Rust 🚀
-- 
+  
 
 
 ### Languages and platforms I have worked with so far:
