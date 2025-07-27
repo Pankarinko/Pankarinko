@@ -25,6 +25,9 @@ My name is Pankarinko and I am a computer science master's student at KIT.
 - data structures 🗂️
 - open-source game development 👾
 - Rust 🚀
+- 
+### Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankarinko&layout=donut&theme=bear&bg_color=70,220838,4f0f47,C90857&border_color=E3D08D)](https://github.com/pankarinko/github-readme-stats)
 
 ### Languages and platforms I have worked with so far:
 
@@ -64,4 +67,4 @@ My name is Pankarinko and I am a computer science master's student at KIT.
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankarinko&layout=donut&theme=bear&bg_color=70,220838,4f0f47,C90857&border_color=E3D08D)](https://github.com/pankarinko/github-readme-stats)
+
