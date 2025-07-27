@@ -58,6 +58,8 @@ My name is Pankarinko and I am a computer science master's student at KIT.
  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60">
  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JS" width="60" height="60">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="60" height="60">
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60">
 </p>
