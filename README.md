@@ -26,10 +26,30 @@ My name is Pankarinko and I am a computer science master's student at KIT.
 - open-source game development 👾
 - Rust 🚀
 - 
-### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankarinko&layout=donut&theme=bear&bg_color=70,220838,4f0f47,C90857&border_color=E3D08D)](https://github.com/pankarinko/github-readme-stats)
+
 
 ### Languages and platforms I have worked with so far:
+
+#### Programming languages and libraries:
+
+<p>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="60" height="60">
+ <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png" alt="Rust" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60">
+</p>
+<p>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JS" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="60" height="60">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60">
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankarinko&layout=donut&theme=bear&bg_color=70,220838,4f0f47,C90857&border_color=E3D08D)](https://github.com/pankarinko/github-readme-stats)
 
 #### Linux distributions:
 
@@ -50,21 +70,6 @@ My name is Pankarinko and I am a computer science master's student at KIT.
  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Godot" width="60" height="60">
 </p>
 
-#### Programming languages and libraries:
 
-<p>
- <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="CPlusPlus" width="60" height="60">
- <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-128x128.png" alt="Rust" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JS" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="60" height="60">
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60">
-</p>
 
 
