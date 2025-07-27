@@ -1,6 +1,5 @@
 
  <h1 align="center">Hi there 🍒</h1>
-<div align="center">
 <!--
 **Pankarinko/Pankarinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -20,17 +19,17 @@ Here are some ideas to get you started:
 <!--probably specializing in software development and operating sytem design-->
 
 ### My current (and ever-expanding) interests are:
-  🔋 low-level programming 👩🏽‍💻
+  - low-level programming 👩🏽‍💻
   
-  🐧 linux tools ⌨️
+  - linux tools ⌨️
   
-  🚄 code optimization ⏩
+  - code optimization 🚄
   
-  🗄️ data structures 🗂️
+  - data structures 🗂️
   
-  🎮 open-source game development 👾
+  - open-source game development 👾
   
-  🦀 Rust 🚀
+  - Rust 🚀
 
   
 
@@ -78,7 +77,6 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="60" height="60">
  <img src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg" alt="Godot" width="60" height="60">
 </p>
-</div>
 
 
 
