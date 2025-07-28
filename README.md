@@ -55,7 +55,7 @@ Here are some ideas to get you started:
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="60" height="60">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankarinko&layout=donut&theme=tokyonight&bg_color=60,0F204C60,1777BF64,5DCFBA67&border_color=2192A6)](https://github.com/pankarinko/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pankarinko&layout=donut&theme=tokyonight&bg_color=60,0F204C40,1777BF40,5DCFBA40&border_color=2192A6)](https://github.com/pankarinko/github-readme-stats)
 
 
 
